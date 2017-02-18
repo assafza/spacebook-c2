@@ -1,0 +1,46 @@
+body{
+	background-color: #5bb9d4;
+}
+.post{
+	margin-top: 5px;
+	padding: 20px;
+	width: 100%;
+	font-size: 20px;
+	font-style: bold;
+	background-color: #d8d8d8;
+	border-radius: 3px;
+}
+
+.remove{
+	margin-left: 40px;
+}
+
+.post-comment{
+	background-color: white;
+	margin-top: 5px;
+	border-radius: 3px;
+	line-height: 20px;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.fa-comments-o{
+	height: 30px;
+	color: white;
+}
+
+.main{
+	background-color: white;
+	border-style: solid;
+	border-width: 5px;
+		border-color: #d8d8d8;
+		margin-top: 10px;
+}
+.form-group{
+	width: 80%;
+	display: inline-block;
+}
+
+form{
+	padding: 5px;
+}
